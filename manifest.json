@@ -1,6 +1,6 @@
 {
-  "name": "Iloilo Travel Route",
-  "short_name": "TravelRoute",
+  "name": "To-Do List",
+  "short_name": "To-do",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#e0f7fa",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
